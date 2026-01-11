@@ -7,4 +7,3 @@ elif 'A' <= c <= 'Z' or 'a' <= c <= 'z':
     print("It is a letter.")
 else:
     print("It is neither a number nor a letter.")
-print("Homework done.")
